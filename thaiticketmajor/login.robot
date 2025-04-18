@@ -1,6 +1,6 @@
 *** Settings ***
 Library    SeleniumLibrary
-Library    JSONLibrary    # ต้องติดตั้ง: pip install robotframework-jsonlibrary
+Library    JSONLibrary
 
 *** Variables ***
 ${URL_LOGIN}    https://www.thaiticketmajor.com/
